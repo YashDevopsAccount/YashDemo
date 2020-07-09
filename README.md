@@ -1,5 +1,5 @@
-# hello-world
-
-My first repository on GitHub
-
-I love :coffee: :pizza:, and :dancer:.
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}  
